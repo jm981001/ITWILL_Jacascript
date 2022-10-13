@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>check_id.jsp</h1>
+	<h1>ID 중복확인</h1>
 </body>
 </html>
